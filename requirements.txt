@@ -1,9 +1,21 @@
 langchain
 langchain-community
-PyPDF2
+pymupdf
 python-dotenv
 streamlit
 openai
 faiss-cpu
 altair
 tiktoken
+
+
+# pymupdf==1.24.4
+# langchain==0.3.26
+# langchain-community==0.3.27
+# PyPDF2==3.0.1
+# python-dotenv==1.1.1
+# streamlit==1.46.1
+# openai==1.93.3
+# faiss-cpu==1.11.0
+# altair==5.5.0
+# tiktoken==0.9.0

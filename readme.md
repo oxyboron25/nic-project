@@ -1,4 +1,4 @@
-# 🧠 LangChain RAG Chatbot for Document Question Answering
+# LangChain RAG Chatbot for Document Question-Answering
 
 This is a full-stack Retrieval-Augmented Generation (RAG) chatbot system that allows users to upload documents (PDF, DOCX, HTML), ask natural language questions, and get intelligent answers grounded in the uploaded content. It uses **LangChain**, **OpenAI**, **ChromaDB**, **FastAPI**, and **Streamlit**.
 

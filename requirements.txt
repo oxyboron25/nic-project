@@ -7,7 +7,9 @@ openai
 faiss-cpu
 altair
 tiktoken
-
+uvicorn
+fastapi
+python-multipart
 
 # pymupdf==1.24.4
 # langchain==0.3.26
